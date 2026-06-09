@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shubham Kamal
 
-<!--
-**Deathbase-01/Deathbase-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Computer Vision | Generative AI
 
-Here are some ideas to get you started:
+## Current Focus
+- Virtual Try-On Systems
+- Recommendation Systems
+- Generative AI
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### AI Fashion Recommendation & Virtual Try-On Platform
+AI-powered fashion platform combining virtual try-on and outfit recommendation.
+
+### Jarvis AI Assistant
+Voice-enabled AI assistant with LLM integration.
+
+### Text-to-Image Generator
+Generative AI project for image synthesis.
+
+## Tech Stack
+
+Python
+PyTorch
+TensorFlow
+OpenCV
+FastAPI
+AWS
+Docker
+LangChain
